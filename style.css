@@ -153,9 +153,11 @@ div > h1 {
 }
 
 footer {
+    color: var(--cor02);
     font-family: var(--font-padrão);
     text-align: center;
     font-size: .7em;
+    background-color: #20202e;
 }
 
 .html {width: 90%; background-color: var(--cor03); height: 20px;}
