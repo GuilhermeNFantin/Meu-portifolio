@@ -170,6 +170,6 @@ footer {
     background-color: #20202e;
 }
 
-.html {width: 90%; background-color: var(--cor03); height: 20px;}
-.css {width: 35%; background-color: var(--cor03); height: 20px;}
+.html {width: 80%; background-color: var(--cor03); height: 20px;}
+.css {width: 50%; background-color: var(--cor03); height: 20px;}
 .js {width: 25%; background-color: var(--cor03); height: 20px;}
